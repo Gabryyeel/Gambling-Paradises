@@ -1,0 +1,25 @@
+.banner{
+	background-image: linear-gradient(-225deg, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0.2) 50%),url(../../image/banner);
+	background-size:cover;
+	background-position: center;
+	color: white;
+	padding: 150px 0px;
+}
+
+.banner h1{
+	font-size: 40px;
+}
+
+.banner h2{
+	font-size: 30px;
+	margin-bottom:40px;
+
+}
+
+#banner2 {
+	background-image: linear-gradient(-225deg, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0.2) 50%),url(../../image/banner2.jpg);
+	background-size:cover;
+	background-position: center;
+	color: white;
+	padding: 150px 0px;
+}
